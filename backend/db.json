@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Fernanda Santos",
+      "email": "aooliveira@hotmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Maria Sousa",
+      "email": "mahsousa@hotmail.com"
+    },
+    {
+      "name": "Pedro Henrique",
+      "email": "veigarzim@gmail.com",
+      "id": 3
+    }
+  ]
+}
